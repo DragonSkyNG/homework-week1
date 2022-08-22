@@ -1,0 +1,4 @@
+Add missing body tag
+Move image into div .header-container
+Move slider tag
+change /br to br
